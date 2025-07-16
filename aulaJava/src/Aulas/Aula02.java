@@ -1,6 +1,6 @@
-package aulas;
+package Aulas;
 
-public class aula02 {
+public class Aula02 {
     public static void main(String[] args) {
         int a = 10, b = 5;
 

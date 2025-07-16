@@ -1,6 +1,6 @@
-package aulas;
+package Aulas;
 
-public class aula01 {
+public class Aula01 {
     public static void main(String[] args) {
         // Variáveis
         double preco = 19.99;

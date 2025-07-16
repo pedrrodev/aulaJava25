@@ -1,8 +1,8 @@
 //Matheus Alves, Pedro Augusto, Pedro de Paula, Rafaela Leite e Sabrina de Sá
 
-package aulas;
+package Aulas;
 import java.util.Scanner;
-public class aula03 {
+public class Aula03 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

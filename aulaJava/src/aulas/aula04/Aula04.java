@@ -1,4 +1,4 @@
-package Aulas;
+package aulas.aula04;
 
 public class Aula04 {
 

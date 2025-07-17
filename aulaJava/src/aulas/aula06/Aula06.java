@@ -1,4 +1,4 @@
-package Aulas;
+package aulas.aula06;
 
 import java.util.Scanner;
 
@@ -30,7 +30,7 @@ public class Aula06 {
         double n9 = scanner.nextDouble();
         System.out.print("Digite a nota do 10º semestre: ");
         double n10 = scanner.nextDouble();
-        double media = (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n7 + n8 + n9 + n10) / 10;
+        double media = (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10) / 10;
         System.out.println("A sua média durante os 10 semestres foi de: " + media);
         if (media >= 6) {
             System.out.println("Parabéns, você está aprovado!");
